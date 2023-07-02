@@ -1,6 +1,9 @@
 # HAPPYLAND-Dev 插件光速起步模板
 ---
 
+# Taboolib is beautiful, I love taboolib & kotlin
+---
+
 这个模板包含了什么?
 - 基于最新Paper的Maven配置文件
 - 方便的事件注册
